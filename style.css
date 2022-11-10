@@ -1,11 +1,11 @@
 .jumbotron {
-    background-image: url('img/fix.jpg');
+    background-image: url('img/8.jpg');
     background-attachment: fixed;
     color: white;
     background-size: cover;
     background-position: 0 -60px;
-    height: 600px;
-    padding-top: 12rem ;
+    height: 700px;
+    padding-top: 15rem ;
     text-shadow: 100px;
 }
 .banner {
